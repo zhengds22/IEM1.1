@@ -22,7 +22,7 @@ The cost optimization section provides code for electricity dispatch modeling, w
 The least-cost optimization should be performed using the **Gurobi solver** (version 10.0 and above) and the **cvxpy Python package** (version 1.6.0 and above), with **Python** (version 3.12 and above).
 
 ## 3. Output Files
-The output files show key results from the IEM, including:
+The output files will be shown after running cost optimization, which  includes:
 
 - Annual overall system cost for a given country and climate scenario.
 - Annualized installed capacities various technologies.
