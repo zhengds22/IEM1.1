@@ -1,4 +1,3 @@
-
 # Integrated Energy Model (IEM) Version 1.1
 
 This repository contains the code for the Integrated Energy Model (IEM), version 1.1. It includes components for data input, cost optimization, and data output.
@@ -22,7 +21,7 @@ The cost optimization section provides code for electricity dispatch modeling, w
 The least-cost optimization should be performed using the **Gurobi solver** (version 10.0 and above) and the **cvxpy Python package** (version 1.6.0 and above), with **Python** (version 3.12 and above).
 
 ## 3. Output Files
-The output files will be shown after running cost optimization, which  includes:
+The output files show key results from the IEM, including:
 
 - Annual overall system cost for a given country and climate scenario.
 - Annualized installed capacities various technologies.
@@ -35,6 +34,3 @@ For more details, please contact:
 - **zhengds22@mails.tsinghua.edu.cn**
 - **dantong@tsinghua.edu.cn**
 
-=======
-# IEM1.1
->>>>>>> 11cd8f6d0d6d61fa52343e588e67187a5f913533
