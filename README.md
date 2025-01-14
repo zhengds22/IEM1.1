@@ -10,7 +10,7 @@ The input section prepares all necessary data for the IEM, including:
 - Future IAM-projected targets for wind and solar penetration under different climate scenarios.
 - Hourly power demand and capacity factors for wind and solar across various global climate models and scenarios.
 
-Due to memory space limitations, we only upload hourly capacity factors and power demand for 7 key countries in this repository, and all the datasets can be available from https://zenodo.org/records/14643182.
+Due to memory space limitations, we only upload hourly capacity factors and power demand for 7 key countries in this repository, and all the datasets can be available from https://doi.org/10.5281/zenodo.14643182.
 
 ## 2. Cost Optimization
 The cost optimization section provides code for electricity dispatch modeling, with the objective of minimizing the overall electricity system cost. This includes:
