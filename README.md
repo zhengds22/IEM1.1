@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Integrated Energy Model (IEM) Version 1.1
 
 This repository contains the code for the Integrated Energy Model (IEM), version 1.1. It includes components for data input, cost optimization, and data output.
